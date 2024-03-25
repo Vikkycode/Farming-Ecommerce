@@ -1,3 +1,3 @@
-const mobileNoRegex = /^[6-9]\d{9}$/;
+const mobileNoRegex = /^[0-9]\d{10}$/;
 
 export { mobileNoRegex }
